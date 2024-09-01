@@ -1,0 +1,11 @@
+[user]
+	name = VincentPinet
+	email = vincent.pinet@gmail.com
+[url "git@github.com:vincentpinet/"]
+	insteadof = https://github.com/vincentpinet/
+[sequence]
+	editor = micro
+[core]
+	editor = micro
+[init]
+	defaultBranch = master
