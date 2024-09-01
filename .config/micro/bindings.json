@@ -1,0 +1,14 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Ctrl-b": "FindPrevious",
+    "Ctrl-d": "SpawnMultiCursor",
+    "Ctrl-g": "command-edit:goto ",
+    "Ctrl-l": "SelectLine",
+    "Ctrl-p": "command:palettero",
+    "Ctrl-w": "Quit",
+    "CtrlSpace": "",
+    "CtrlUnderscore": "lua:comment.comment",
+    "Shift-PgDown": "SelectPageDown",
+    "Shift-PgUp": "SelectPageUp",
+    "ShiftDelete": "CutLine"
+}
